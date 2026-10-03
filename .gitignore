@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.claude/
+.vscode/
+CLAUDE.md
+docs/claude docs/
+docs/papers/
+Implementations/MNIST/results/*.pt
